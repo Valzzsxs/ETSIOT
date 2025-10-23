@@ -1,4 +1,4 @@
-use std::{thread, time::Duration};
+use no_std::{thread, time::Duration};
 use anyhow::Result;
 use esp_idf_svc::eventloop::EspSystemEventLoop;
 use esp_idf_svc::hal::prelude::*;
