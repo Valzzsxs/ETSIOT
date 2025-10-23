@@ -35,7 +35,7 @@ Cek versi untuk memastikan Rust terpasang dengan benar:
 rustc --version
 cargo --version
 
-### 2️⃣ Clone Repositori
+## 2️⃣ Clone Repositori
 git clone https://github.com/Valzzsxs/ETSIOT.git
 cd ETSIOT
 
