@@ -20,9 +20,9 @@ ETSIOT/
 
 Setiap folder (`streamdht` dan `ota2`) merupakan proyek Rust yang berdiri sendiri dan dapat dijalankan secara terpisah.
 
-## ⚙️ Instalasi & Persiapan
+# ⚙️ Instalasi & Persiapan
 
-### 1️⃣ Instal Rust
+## 1️⃣ Instal Rust
 Jalankan perintah berikut di terminal Ubuntu:
 
 ```bash
