@@ -1,4 +1,4 @@
-use std::{
+use no_std::{
     str,
     sync::{Arc, Mutex, atomic::{AtomicBool, AtomicUsize, Ordering}},
     thread,
